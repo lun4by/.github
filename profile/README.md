@@ -1,6 +1,6 @@
 # lun4by
 
-Xây dựng hệ sinh thái **Lunaby** — AI products, Discord experiences, SDKs, và công cụ canvas.
+Xây dựng hệ sinh thái **Lunaby** - AI products, Discord experiences, SDKs, và công cụ canvas.
 
 ## About
 
