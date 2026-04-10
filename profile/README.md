@@ -44,10 +44,9 @@ Thư viện render hình ảnh/card dành cho Discord bots:
 
 - **Node.js**
 - **TypeScript / JavaScript**
-- **discord.js**
+- **Golang**
 - **MongoDB**
 - **MariaDB**
-- **Canvas / @napi-rs/canvas**
 
 ## Vision
 
